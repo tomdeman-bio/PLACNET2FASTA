@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+#Written by Tom de Man
+
 use strict;
 use Getopt::Long;
 use Array::Utils qw(:all);
